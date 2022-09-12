@@ -1,0 +1,199 @@
+body{
+    background-color:#e0ebe8;
+    text-align:center;
+    /* line-height:2; */
+    margin:0;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    /*font-family: 'My Soul', cursive;*/
+    font-family: 'Sacramento', cursive;
+    color:#4ab19a;
+    font-size: 70px; 
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    background-color:#e0ebe8; 
+    
+}
+p{
+    color:#4ab19a;
+    line-height:2;
+}
+/*Class names in sequence as they occur in HTML doc.*/
+.index{
+    height:80px;
+    position:sticky;
+    top:0;
+    border-style:none none solid none;
+    border-color:#4ab19a; 
+}
+.pic{
+    width:65px;
+    height:65px;
+    position:absolute;
+    bottom:0px;
+    left:300px;
+}
+.resume{
+    text-decoration:none;
+    font-family:arial;
+    color:#4ab19a;
+    position:relative;
+    top:60px;
+    left:260px;
+}
+.mobile{
+    text-decoration:none;
+    font-family:arial;
+    color:#4ab19a;
+    position:relative;
+    top:60px;
+    left:280px;
+}
+.top-container{
+    width:500px;
+    padding-top:80px;
+    padding-right:50px;
+    padding-left:50px;
+    text-align: center;
+}
+.top-cloud{
+    position:relative;
+    left:250px;
+    /*position:absolute;
+    right:0px;*/
+    width:130px;
+}
+.bottom-cloud{
+    position:relative;
+    right:250px;
+    /*position:absolute;
+   left:0;
+   bottom:0;*/
+    width:130px;
+}
+.mountain{
+    width:650px;
+    height:220px;
+}
+
+.middle-container{
+    background-color:white;
+}
+.profile{
+    margin:auto;
+    width:600px;
+    height:400px;
+    background-color:white;
+    text-align:center;
+}
+.profile-pic{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+.dotted-line{
+    width:5%;
+    border-style:dotted none none none;
+    border-width:5px;
+    border-color:#b2bdbb;
+}
+.skills{
+    background-color:white;
+}
+.My-skills{
+    background-color:white;
+    margin:auto;
+    width:600px;
+    text-align:left;
+}
+.code-img{
+    width:170px;
+    height:170px;
+    background-color: #e0ebe8; 
+    float:right;
+    border-radius:50%;
+    margin-top:20px;
+    margin-left:30px;
+  
+}
+/*.myskills-description{
+    clear: left;
+}*/
+.what-can-i-do{
+    margin:auto;
+    width:750px;
+    background-color:white;
+    text-align:left;
+}
+.laptop-gif{
+    width:170px;
+    height:170px;
+    border-radius:50%;
+    background-color: #e0ebe8; 
+    float:left;
+    margin-top:35px;
+    margin-right:35px;
+}
+/*.iwilldo-description{
+    clear:left;
+}*/
+
+.contact-me{
+    background-color:white;
+}
+.hire-me{
+    margin:auto;
+    width:750px;
+    background-color:white;
+    text-align:left;
+}
+.hire-me-pic{
+    width:170px;
+    float:right;
+    margin-left:20px;
+    margin-top:10px;
+     border-radius:50%;
+}
+.message-me{
+    border-style:solid;
+    border-color:#4ab19a;
+    background-color:#4ab19a;
+    color:white;
+    padding:10px;
+}
+.message-me:hover{
+    background-color:#bdbdc1;
+    border-style:none;
+}
+.footer-link{
+    border-style:solid;
+    text-decoration:none;
+    color:white;
+    border:solid #4ab19a;
+    background-color:#4ab19a;
+    border-radius:10%;
+    padding:10px;
+    margin:30px;
+}
+.footer-link:hover{
+    background-color:#bdbdc1;
+    border:solid #e0ebe8; ;
+}
+.end-text{
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 0px 0px 0px;;
+}
+.copy-right{
+    text-decoration:none;
+}

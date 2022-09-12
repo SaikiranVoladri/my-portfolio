@@ -104,7 +104,7 @@ p{
 }
 .dotted-line{
     width:5%;
-    border-style:dotted none none none;
+    border-style:dotted none none;
     border-width:5px;
     border-color:#b2bdbb;
 }

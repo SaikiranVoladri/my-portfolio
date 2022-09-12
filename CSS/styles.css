@@ -34,7 +34,7 @@ p{
     height:80px;
     position:sticky;
     top:0;
-    border-style:none none solid none;
+    border-style:none none solid ;
     border-color:#4ab19a; 
 }
 .pic{
